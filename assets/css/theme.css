@@ -11,7 +11,7 @@
 	--menu-color:       #ad43df;  /* left-hand menu & buttons */
 	--accent-color:     #af4ee7;  /* headings, links, bold text */
 	--hover-color:      #ba71ff;  /* link color when hovered */
-	--text-color:       #000000;  /* normal text */
+	--text-color:       #ec0000;  /* normal text */
 	--button-text-color: #ffffff;  /* text color for primary buttons */
 	/* Right-hand menu / sidebar */
 	--titlebar-text:      var(--page-background); /* you can also reference other variables */
